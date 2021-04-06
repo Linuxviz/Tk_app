@@ -13,6 +13,6 @@ figure 1. Reminder window.
 ![alt text](auton.PNG "authorization window")  
 figure 2. Authorization window. 
 
-![alt text](main.PNG "main")
+![alt text](main.PNG "main")  
 figure 3. main window. 
 
