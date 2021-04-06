@@ -7,12 +7,12 @@
    for windows :cmd:`python main.py`,  
    for linux .
 
-![alt text](rem_win.png "reminder window")  
+![alt text](rem_win.PNG "reminder window")  
 figure 1. Reminder window. 
 
-![alt text](auton.png "authorization window")  
+![alt text](auton.PNG "authorization window")  
 figure 2. Authorization window. 
 
-![alt text](main.png "main")
+![alt text](main.PNG "main")
 figure 3. main window. 
 
